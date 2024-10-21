@@ -1,10 +1,10 @@
-# Hello, I'm AKSHATA TADAKOD! 👋
+# Hello, I'm **AKSHATA TADAKOD**! 👋
 
 📊 **Data Explorer | SQL Wizard | Insight Architect | Continuous Learner**  
 🔍 Turning raw data into actionable insights, I thrive on extracting value from numbers. With a passion for data visualization and problem-solving, I transform complex datasets into compelling stories that drive business decisions. I delve deep into data to uncover hidden patterns and trends, creating impactful visualizations that inform strategic choices. Believing that data is the new oil, I’m here to refine it! Constantly exploring new tools and techniques, I invite you to join me on this journey of discovery and innovation as we decode data together and turn insights into action!
 
 💻 Proficient in SQL and Advanced Excel, with foundational knowledge in Power BI for data visualization and enhancing Python techniques (Pandas, NumPy) for data analysis.  
-🤖 AI Enthusiast | Passionate about automating workflows and leveraging data for strategic insights  
+🤖 **AI Enthusiast** | Passionate about automating workflows and leveraging data for strategic insights.  
 📫 You can reach me via email at [akshatatadakod@gmail.com](mailto:akshatatadakod@gmail.com) or connect with me on LinkedIn at [www.linkedin.com/in/akshatatadakod](https://www.linkedin.com/in/akshatatadakod).  
 🌍 Based in Bengaluru
 
@@ -62,42 +62,40 @@ I once analyzed a dataset of over a million records in under an hour, uncovering
 - **Presentation Skills:** Effective in conveying complex information through PowerPoint.
 
 ### 📌 Pinned Projects
-- [Walmart Sales Data Analysis]([link](https://github.com/Ak-AlphaData/SQL-Projects/blob/main/Walmart%20Sales%20Data%20Analysis/Documentation.md))-
- #### Description:
- - Analyzed sales data from 45 Walmart stores to uncover trends and evaluate product performance during holiday markdowns.
- - Aimed to optimize sales strategies and enhance customer targeting based on data insights.
- - Cleaned and structured datasets using SQL to ensure data integrity.
- - Conducted Exploratory Data Analysis (EDA) to extract meaningful patterns and insights.
- - Created visualizations in Excel to effectively present findings and facilitate data-driven decision-making.
- #### Technologies Used:
- - **SQL:** For data extraction, management, and complex queries.
- - **Excel:** For data visualization and dashboard creation to present insights effectively.
+1. **[Walmart Sales Data Analysis](https://github.com/Ak-AlphaData/SQL-Projects/blob/main/Walmart%20Sales%20Data%20Analysis/Documentation.md)**  
+   #### Description:
+   - Analyzed sales data from 45 Walmart stores to uncover trends and evaluate product performance during holiday markdowns.
+   - Aimed to optimize sales strategies and enhance customer targeting based on data insights.
+   - Cleaned and structured datasets using SQL to ensure data integrity.
+   - Conducted Exploratory Data Analysis (EDA) to extract meaningful patterns and insights.
+   - Created visualizations in Excel to effectively present findings and facilitate data-driven decision-making.  
+   #### Technologies Used:
+   - **SQL:** For data extraction, management, and complex queries.
+   - **Excel:** For data visualization and dashboard creation to present insights effectively.
    
-- [E-commerce Sales Analysis]([link](https://github.com/Ak-AlphaData/Excel-Projects/blob/main/E-Commerce%20Sales%20Data%20Analysis/Documentation.MD))-
- #### Description:
- - Developed an interactive Excel dashboard to analyze and visualize sales data for Vrinda Store.
- - Leveraged exploratory data analysis (EDA) techniques to uncover insights and trends, enabling stakeholders to make informed business decisions.
- - Created an engaging user interface for easy navigation and accessibility for non-technical users.
- - Implemented comprehensive data cleaning techniques to ensure data accuracy and relevance.
- - Designed dynamic visualizations, including various charts, to effectively represent sales metrics and performance.
- #### Technologies Used:
-- **Excel:** For data analysis, visualization, and dashboard creation.
-- **EDA Techniques:** For uncovering insights and trends in sales data.
+2. **[E-commerce Sales Analysis](https://github.com/Ak-AlphaData/Excel-Projects/blob/main/E-Commerce%20Sales%20Data%20Analysis/Documentation.MD)**  
+   #### Description:
+   - Developed an interactive Excel dashboard to analyze and visualize sales data for Vrinda Store.
+   - Leveraged exploratory data analysis (EDA) techniques to uncover insights and trends, enabling stakeholders to make informed business decisions.
+   - Created an engaging user interface for easy navigation and accessibility for non-technical users.
+   - Implemented comprehensive data cleaning techniques to ensure data accuracy and relevance.
+   - Designed dynamic visualizations, including various charts, to effectively represent sales metrics and performance.  
+   #### Technologies Used:
+   - **Excel:** For data analysis, visualization, and dashboard creation.
+   - **EDA Techniques:** For uncovering insights and trends in sales data.
   
-- [HR Data Analytics]([link](https://github.com/Ak-AlphaData/Power-BI-Projects/blob/main/HR-Analytics/Documentation.md))-
- #### Description:
- - Developed an interactive HR dashboard using Power BI to analyze employee attrition.
- - Aimed to provide HR teams with valuable insights into turnover trends to enhance workforce satisfaction.
- - Integrated data preparation, transformation, and visualization techniques for efficient exploration of critical metrics.
- - Features various visualizations, including KPIs, bar charts, and pie charts, for dynamic interaction.
- - Enables monitoring of employee demographics and attrition rates to support data-driven decision-making.
-#### Technologies Used:
- - **Power BI:** For creating engaging and interactive visualizations of key employee metrics.
- - **DAX (Data Analysis Expressions):** For calculating critical metrics such as attrition rates and performance indicators.
- - **Power Query Editor:** For data cleaning and preprocessing, ensuring the dataset is well-structured for analysis.
+3. **[HR Data Analytics](https://github.com/Ak-AlphaData/Power-BI-Projects/blob/main/HR-Analytics/Documentation.md)**  
+   #### Description:
+   - Developed an interactive HR dashboard using Power BI to analyze employee attrition.
+   - Aimed to provide HR teams with valuable insights into turnover trends to enhance workforce satisfaction.
+   - Integrated data preparation, transformation, and visualization techniques for efficient exploration of critical metrics.
+   - Features various visualizations, including KPIs, bar charts, and pie charts, for dynamic interaction.
+   - Enables monitoring of employee demographics and attrition rates to support data-driven decision-making.  
+   #### Technologies Used:
+   - **Power BI:** For creating engaging and interactive visualizations of key employee metrics.
+   - **DAX (Data Analysis Expressions):** For calculating critical metrics such as attrition rates and performance indicators.
+   - **Power Query Editor:** For data cleaning and preprocessing, ensuring the dataset is well-structured for analysis.
 
 ---
 
 I am passionate about transforming complex data into meaningful insights and look forward to contributing to innovative projects that drive success through data-driven decision-making.
-
-
